@@ -21,6 +21,12 @@ Each `.zip` archive is named with the Openwater internal part number and revisio
 
 ## File / Part-Number Index
 
+**Part-number convention (current best understanding — confirm with maintainers):**
+
+- **`100-xxxxx`** — Top-level system / console assemblies
+- **`700-xxxxx`** — Mechanical sub-assemblies (housings, brackets, transmit-module hardware)
+- **`900-xxxxx`** — Test, verification, and characterization fixtures
+  
 Use this table to figure out what each file is **without opening it**. PNs are Openwater internal identifiers. Where descriptions are marked _TBD_ the maintainers will fill in details on the next pass — please open a PR or issue if you have authoritative info.
 
 | Part Number | Rev  | File                                    | Category                                 | Description                                                  | Format        | Notes                                                        |
@@ -33,12 +39,6 @@ Use this table to figure out what each file is **without opening it**. PNs are O
 | 700-00039   | Rev3 | `700-00039-Rev3.zip`                    | Sub-assembly                             | _TBD_                                                        | STEP + native |                                                              |
 | 700-00040   | Rev4 | `700-00040-Rev4.zip`                    | Sub-assembly                             | _TBD_                                                        | STEP + native |                                                              |
 | 900-00016   | Rev1 | `Verification Tank/900-00016-Rev1.step` | Verification Tank fixture / interconnect | Verification-tank interconnect assembly. Includes a BNC jack (Amphenol 031-5329-51RFX) and multiple Samtec FFSD ribbon-cable connectors mounted in an enclosure — used to break out hydrophone and trigger signals between the Open-LIFU console and the acoustic test tank. | STEP AP242    | 900-series = test/verification fixtures. Used with the [openlifu-verification-tank](https://github.com/OpenwaterHealth/openlifu-verification-tank) software stack. |
-
-**Part-number convention (current best understanding — confirm with maintainers):**
-
-- **`100-xxxxx`** — Top-level system / console assemblies
-- **`700-xxxxx`** — Mechanical sub-assemblies (housings, brackets, transmit-module hardware)
-- **`900-xxxxx`** — Test, verification, and characterization fixtures
 
 ---
 
