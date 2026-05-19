@@ -1,4 +1,4 @@
-# OpenLIFU-Mechanical
+# openlifu-mechanical
 
 Mechanical design files (CAD models, assemblies, and drawings) for the **Open-LIFU** open-source Low-Intensity Focused Ultrasound research platform.
 
@@ -31,7 +31,7 @@ Use this table to figure out what each file is **without opening it**. PNs are O
 
 | Part Number | Rev  | File                                    | Category                                 | Description                                                  | Format        | Notes                                                        |
 | ----------- | ---- | --------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
-| 100-00050   | Rev2 | `100-00050-Rev2.zip`                    | Console / System                         | _TBD — likely top-level console or system assembly._         | STEP + native | 100-series = top-level systems                               |
+| 100-00050   | Rev2 | `100-00050-Rev2.zip`                    | Console / System                         | Daisy Chain Cable, 2X, LIFU         | STEP + native | 100-series = top-level systems                               |
 | 700-00012   | Rev3 | `700-00012-Rev3.zip`                    | Sub-assembly                             | _TBD_                                                        | STEP + native | 700-series = mechanical sub-assemblies                       |
 | 700-00018   | Rev2 | `700-00018-Rev2.zip`                    | Sub-assembly                             | _TBD_                                                        | STEP + native |                                                              |
 | 700-00021   | Rev2 | `700-00021-Rev2.zip`                    | Sub-assembly                             | _TBD_                                                        | STEP + native |                                                              |
