@@ -18,16 +18,8 @@ Open-LIFU is an open hardware/software stack developed by [Openwater](https://ww
 Each `.zip` archive is named with the Openwater internal part number and revision: `PPP-NNNNN-RevX.zip`.
 
 ---
-
-## File / Part-Number Index
-
-**Part-number convention (current best understanding — confirm with maintainers):**
-
-- **`100-xxxxx`** — Top-level system / console assemblies
-- **`700-xxxxx`** — Mechanical sub-assemblies (housings, brackets, transmit-module hardware)
-- **`900-xxxxx`** — Test, verification, and characterization fixtures
-  
-Use this table to figure out what each file is **without opening it**. PNs are Openwater internal identifiers. Where descriptions are marked _TBD_ the maintainers will fill in details on the next pass — please open a PR or issue if you have authoritative info.
+ 
+Use this table to figure out what each file is **without opening it**. PNs are Openwater internal identifiers. Where descriptions are marked _TBD_, the maintainers will fill in details on the next pass — please open a PR or issue if you have authoritative info.
 
 | Part Number | Rev  | File                                    | Category                                 | Description                                                  | Format        | Notes                                                        |
 | ----------- | ---- | --------------------------------------- | ---------------------------------------- | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------ |
