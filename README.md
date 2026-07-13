@@ -85,11 +85,11 @@ For substantial new parts, please follow the existing PN convention (`PPP-NNNNN-
 
 The mechanical files here are one piece of the broader Open-LIFU stack. See also:
 
-- **[OpenLIFU-app](https://github.com/OpenwaterHealth/OpenLIFU-app)** — GUI for planning and controlling sonications
+- **[Open-LIFU-app](https://github.com/OpenwaterHealth/OpenLIFU-app)** — GUI for planning and controlling sonications
 - **[SlicerOpenLIFU](https://github.com/OpenwaterHealth/SlicerOpenLIFU)** — 3D Slicer extension wrapping the OpenLIFU app
 - **[openlifu-verification-tank](https://github.com/OpenwaterHealth/openlifu-verification-tank)** — Python control software for the acoustic verification tank (uses the 900-series fixtures in this repo)
 - **[opw_ustx](https://github.com/OpenwaterHealth/opw_ustx)** — Openwater Ultrasound Transmit Module (USTX) firmware and design
-- **[OpenwaterWiki — Neuromodulation](https://wiki.openwater.health/index.php/Neuromodulation)** — System-level documentation
+- **[Open-LIFU Documentation](https://docs.openwater.health/openlifu/))** — System-level documentation
 
 ---
 
