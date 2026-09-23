@@ -30,6 +30,7 @@ Use this table to figure out what each file is **without opening it**. PNs are O
 | 700-00022   | Rev2 | `700-00022-Rev2.zip`                    | Sub-assembly                             | LIFU Strap Bundle                                                        | STEP + native |                                                              |
 | 700-00039   | Rev3 | `700-00039-Rev3.zip`                    | Sub-assembly                             | 180 KHz TM, LIFU                                                        | STEP + native |                                                              |
 | 700-00040   | Rev4 | `700-00040-Rev4.zip`                    | Sub-assembly                             | Transmit Module 400 KHz TM, LIFU                                                        | STEP + native |                                                              |
+| 700-00108   | Rev0 | `700-00108-Rev0.zip`                    | Sub-assembly                             | Coupling Cone, 40 mm                                          | STEP          |                                                              |
 | 900-00016   | Rev1 | `Verification Tank/900-00016-Rev1.step` | Verification Tank fixture / interconnect | Open LIFU 2x Water Tank Testing Kit | STEP AP242    | 900-series = test/verification fixtures. Used with the [openlifu-verification-tank](https://github.com/OpenwaterHealth/openlifu-verification-tank) software stack. |
 
 ---
