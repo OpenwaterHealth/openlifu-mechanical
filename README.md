@@ -1,5 +1,9 @@
 # openlifu-mechanical
 
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 Mechanical design files (CAD models, assemblies, and drawings) for the **Open-LIFU** open-source Low-Intensity Focused Ultrasound research platform.
 
 Open-LIFU is an open hardware/software stack developed by [Openwater](https://www.openwater.health/openlifu) for focused-ultrasound research and neuromodulation. This repository hosts the mechanical artifacts you need to build, modify, or interface with the system — transducer housings, console enclosures, transmit modules, and verification-tank fixtures.
