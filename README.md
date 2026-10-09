@@ -100,7 +100,7 @@ The mechanical files here are one piece of the broader Open-LIFU stack. See also
 
 ## License
 
-This repository is released under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See [`LICENSE`](LICENSE) for the full text. Derivative hardware designs are welcomed; please respect the copyleft terms when redistributing modified versions.
+This repository is released under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)**. See [`LICENSE`](LICENSE) for the full text. Derivative hardware designs are welcomed; please respect the copyleft terms when redistributing modified versions.
 
 ---
 
